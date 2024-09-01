@@ -12,7 +12,7 @@ namespace SciCalc
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("Cairo-Light.ttf", "RegularFont");
-                    fonts.AddFont("Cairo-ExtraLight.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Cairo-ExtraLight.ttf", "LightFont");
                 });
 
 #if DEBUG
