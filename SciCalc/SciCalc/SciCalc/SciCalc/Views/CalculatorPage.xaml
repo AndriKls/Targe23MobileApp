@@ -203,20 +203,20 @@
         <Button 
     Grid.Row="6"
     Grid.Column="0"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource NumberButtonStyle}"
     Text="7" />
 
         <Button 
             Grid.Row="6"
             Grid.Column="1"
-            Margin="6,10,6,4"
+            
             Style="{StaticResource NumberButtonStyle}"
             Text="8" />
         <Button 
             Grid.Row="6"
             Grid.Column="2"
-            Margin="6,10,6,4"
+           
             Style="{StaticResource NumberButtonStyle}"
             Text="9" />
 
@@ -224,7 +224,7 @@
     Grid.Row="6"
     Grid.Column="3"
     Grid.ColumnSpan="2"
-    Margin="6,10,6,4"
+   
     Style="{StaticResource OperatorButtonStyle}"
     Text="AC" />
         
@@ -233,19 +233,19 @@
         <Button 
             Grid.Row="7"
             Grid.Column="0"
-            Margin="6,10,6,4"
+          
             Style="{StaticResource NumberButtonStyle}"
             Text="4" />
         <Button 
             Grid.Row="7"
             Grid.Column="1"
-            Margin="6,10,6,4"
+           
             Style="{StaticResource NumberButtonStyle}"
             Text="5" />
         <Button 
             Grid.Row="7"
             Grid.Column="2"
-            Margin="6,10,6,4"
+           
             Style="{StaticResource NumberButtonStyle}"
             Text="6" />
         
@@ -254,58 +254,58 @@
         <Button 
             Grid.Row="8"
             Grid.Column="0"
-            Margin="6,10,6,4"
+           
             Style="{StaticResource NumberButtonStyle}"
             Text="1" />
         <Button 
             Grid.Row="8"
             Grid.Column="1"
-            Margin="6,10,6,4"
+            
             Style="{StaticResource NumberButtonStyle}"
             Text="2" />
         <Button 
             Grid.Row="8"
             Grid.Column="2"
-            Margin="6,10,6,4"
+            
             Style="{StaticResource NumberButtonStyle}"
             Text="3" />
         <Button 
 Grid.Row="8"
 Grid.Column="3"
-Margin="6,10,6,4"
+
 Style="{StaticResource OperatorButtonStyle}"
 Text="+" />
         <Button 
 Grid.Row="8"
 Grid.Column="4"
-Margin="6,10,6,4"
+
 Style="{StaticResource OperatorButtonStyle}"
 Text="-" />
 
         <Button 
         Grid.Row="9"
         Grid.Column="3"
-        Margin="6,10,6,4"
+        
         Style="{StaticResource OperatorButtonStyle}"
         Text="x" />
 
         <Button 
         Grid.Row="10"
         Grid.Column="3"
-        Margin="6,10,6,4"
+        
         Style="{StaticResource OperatorButtonStyle}"
         Text="=" />
 
         <Button 
     Grid.Row="7"
     Grid.Column="3"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource OperatorButtonStyle}"
     Text="×" />
         <Button 
     Grid.Row="7"
     Grid.Column="4"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource OperatorButtonStyle}"
     Text="÷" />
 
@@ -313,21 +313,21 @@ Text="-" />
         <Button 
     Grid.Row="9"
     Grid.Column="0"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource NumberButtonStyle}"
     Text="0" />
 
         <Button 
     Grid.Row="9"
     Grid.Column="1"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource NumberButtonStyle}"
     Text="." />
 
         <Button 
     Grid.Row="9"
     Grid.Column="2"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource NumberButtonStyle}"
     Text="⌫" />
 
@@ -335,7 +335,7 @@ Text="-" />
     Grid.Row="9"
     Grid.Column="3"
     Grid.ColumnSpan="2"
-    Margin="6,10,6,4"
+    
     Style="{StaticResource OperatorButtonStyle}"
     Text="=" />
 
